@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+                android:padding="16dp"
+             tools:context="com.doxa360.android.dutch.CategoryBottomSheetDialogFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/category_recyclerview"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/empty_label"
+        android:layout_centerInParent="true"
+        tools:text="@string/network_error"/>
+
+    <ProgressBar android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:id="@+id/progress_bar"
+                 android:layout_centerHorizontal="true"
+                 android:layout_alignParentTop="true"/>
+
+</RelativeLayout>

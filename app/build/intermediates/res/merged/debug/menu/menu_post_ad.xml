@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.doxa360.android.dutch.AdDetail">
+    <item android:id="@+id/action_finish"
+          android:orderInCategory="100"
+          android:icon="@drawable/ic_check_circle_white_24dp"
+          app:icon="@drawable/ic_check_circle_white_24dp"
+          android:title="@string/action_done"
+          app:showAsAction="ifRoom"/>
+</menu>

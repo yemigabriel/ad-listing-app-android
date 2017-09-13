@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/xml/pref_general.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/xml/pref_data_sync.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/xml/pref_notification.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/xml/pref_headers.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/xml/searchable.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/xml/searchable.xml"
+    }
+]

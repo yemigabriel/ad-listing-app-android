@@ -1,0 +1,158 @@
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.doxa360.android.dutch.ProfileFragment" >
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    xmlns:tools="http://schemas.android.com/tools"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="16dp"
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    tools:context="com.doxa360.android.dutch.ProfileFragment">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/profile_card"
+            app:cardCornerRadius="4dp"
+            android:layout_margin="4dp"
+            app:cardUseCompatPadding="true">
+
+            <RelativeLayout android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:padding="16dp">
+
+                <com.doxa360.android.dutch.helpers.MLRoundedImageView
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:id="@+id/avatar"
+                    android:src="@drawable/wil_profile"
+                    android:scaleType="centerCrop"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                />
+
+                <TextView android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/name"
+                          tools:text="First name Last name"
+                          android:layout_toEndOf="@+id/avatar"
+                          android:layout_alignParentTop="true"
+                          android:padding="8dp"
+                          style="?android:attr/textAppearanceLarge" />
+
+                <TextView android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/phone"
+                          tools:text="08031234567"
+                          android:layout_alignStart="@+id/name"
+                          android:layout_below="@+id/name"
+                          android:padding="8dp"
+                          style="?android:attr/textAppearanceLarge" />
+
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dashboard_card"
+            android:layout_below="@+id/profile_card"
+            android:paddingTop="16dp"
+            app:cardCornerRadius="4dp"
+            android:layout_margin="4dp"
+            app:cardUseCompatPadding="true">
+
+            <RelativeLayout android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:padding="16dp">
+
+                <TextView android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/ads_count"
+                          tools:text="Ads Posted: 5 ads"
+                          android:layout_alignParentStart="true"
+                          android:layout_alignParentTop="true"
+                          android:padding="8dp"/>
+
+                <TextView android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/joined_since"
+                          tools:text="Joined since 2nd May 2017"
+                          android:layout_alignParentStart="true"
+                          android:layout_below="@+id/ads_count"
+                          android:padding="8dp" />
+
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <RelativeLayout android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/recent_ads"
+                        android:layout_below="@+id/dashboard_card"
+                        android:paddingTop="16dp"
+                        android:layout_margin="4dp">
+
+            <TextView android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:id="@+id/recent_ads_label"
+                      tools:text="Recent Ads"
+                      android:layout_alignParentStart="true"
+                      android:layout_alignParentTop="true"
+                      android:padding="8dp"
+                      style="?android:attr/textAppearanceLarge" />
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/recent_ads_recyclerview"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/recent_ads_label"
+                android:paddingBottom="16dp"/>
+
+
+            <ProgressBar android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:id="@+id/progress_bar"
+                         android:layout_centerHorizontal="true"
+                         android:layout_alignParentTop="true"/>
+
+
+        </RelativeLayout>
+
+        <!--<RelativeLayout android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:id="@+id/top_ads"-->
+                        <!--android:layout_below="@+id/recent_ads"-->
+                        <!--android:paddingTop="16dp"-->
+                        <!--android:layout_margin="4dp">-->
+
+            <!--<TextView android:layout_width="match_parent"-->
+                      <!--android:layout_height="wrap_content"-->
+                      <!--android:id="@+id/top_ads_label"-->
+                      <!--tools:text="Top Ads"-->
+                      <!--android:layout_alignParentStart="true"-->
+                      <!--android:layout_alignParentTop="true"-->
+                      <!--android:padding="8dp"-->
+                      <!--style="?android:attr/textAppearanceLarge" />-->
+
+            <!--<android.support.v7.widget.RecyclerView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/top_ads_recyclerview"-->
+                <!--android:layout_alignParentStart="true"-->
+                <!--android:layout_below="@+id/top_ads_label"/>-->
+
+        <!--</RelativeLayout>-->
+
+    </RelativeLayout>
+
+</android.support.v4.widget.NestedScrollView>

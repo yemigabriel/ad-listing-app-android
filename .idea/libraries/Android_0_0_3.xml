@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Android-0.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e11d2bd1fea5f7df6f23f5f0e46e4f92f90982cd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e11d2bd1fea5f7df6f23f5f0e46e4f92f90982cd/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thinkincode.utils/Android/0.0.3/6cf88c7a0099a6ba1f7fa81387c10bcc1345ffc1/Android-0.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v11/notification_media_action.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

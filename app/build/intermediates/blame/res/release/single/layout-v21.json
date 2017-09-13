@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v21/intro_layout.xml",
+        "source": "/Users/Apple/.android/build-cache/945214cee110c5ee92a25926567ce6ba6e56b56f/output/res/layout-v21/intro_layout.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/Apple/.android/build-cache/98446937f11cc52ec584c64e1b6527f5ae06ea16/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v21/intro_layout2.xml",
+        "source": "/Users/Apple/.android/build-cache/945214cee110c5ee92a25926567ce6ba6e56b56f/output/res/layout-v21/intro_layout2.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

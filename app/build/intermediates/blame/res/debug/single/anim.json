@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Apple/.android/build-cache/3842ce35707faf1dbbb4178d1602becb6b2211ba/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/rotate_forward.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/anim/rotate_forward.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/Apple/.android/build-cache/3842ce35707faf1dbbb4178d1602becb6b2211ba/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/Apple/.android/build-cache/3842ce35707faf1dbbb4178d1602becb6b2211ba/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/fab_close.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/anim/fab_close.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Apple/.android/build-cache/3842ce35707faf1dbbb4178d1602becb6b2211ba/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/Apple/.android/build-cache/3842ce35707faf1dbbb4178d1602becb6b2211ba/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/rotate_backward.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/anim/rotate_backward.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Apple/.android/build-cache/3842ce35707faf1dbbb4178d1602becb6b2211ba/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Apple/.android/build-cache/5c92bcf2e79f91868fd5ad338968cf16df8ed79d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/anim/fab_open.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/anim/fab_open.xml"
+    }
+]

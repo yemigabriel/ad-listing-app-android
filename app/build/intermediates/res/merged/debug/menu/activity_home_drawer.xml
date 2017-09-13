@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"/>
+        <item
+            android:id="@+id/nav_categories"
+            android:title="Categories"/>
+        <!--<item-->
+            <!--android:id="@+id/nav_slideshow"-->
+            <!--android:icon="@drawable/ic_menu_slideshow"-->
+            <!--android:title="Post Ad"/>-->
+        <!--<item-->
+            <!--android:id="@+id/nav_manage"-->
+            <!--android:icon="@drawable/ic_menu_manage"-->
+            <!--android:title="Tools"/>-->
+    </group>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:title="Profile"/>
+            <item
+                android:id="@+id/nav_my_ads"
+                android:title="My Ads"/>
+            <!--<item-->
+                <!--android:id="@+id/nav_favorites"-->
+                <!--android:title="Favorites"/>-->
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <!--<item-->
+            <!--android:id="@+id/nav_share"-->
+            <!--android:title="Share With Friends"-->
+        <!--/>-->
+        <item
+            android:id="@+id/nav_feedback"
+            android:title="Send Feedback"/>
+    </group>
+
+</menu>

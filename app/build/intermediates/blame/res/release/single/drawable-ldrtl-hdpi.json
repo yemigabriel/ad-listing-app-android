@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/drawable-ldrtl-hdpi/ic_send_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-ldrtl-hdpi/ic_send_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/release/drawable-ldrtl-hdpi/ic_send_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-ldrtl-hdpi/ic_send_white_24dp.png"
+    }
+]

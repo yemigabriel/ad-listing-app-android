@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_call_received_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_call_received_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_attach_money_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_attach_money_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_shopping_cart_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_shopping_cart_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_comment_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_comment_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_directions_car_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_directions_car_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_rss_feed_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_rss_feed_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_home_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_share_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_share_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_fullscreen_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_fullscreen_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_call_missed_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_call_missed_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_report_white_48dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_report_white_48dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_button_send_icon.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_send_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_send_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_star_rate_black_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_star_rate_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_tooltip_black_background.9.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check_box_outline_blank_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_check_box_outline_blank_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_group_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_group_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_edit_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_local_car_wash_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_local_car_wash_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_group_add_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_group_add_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_check_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_comment_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_comment_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_event_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_event_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_account_circle_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_person_black_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_person_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_info_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_traffic_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_traffic_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_call_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_call_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_flash_on_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_flash_on_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_event_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_event_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_close.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_directions_car_white_48dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_directions_car_white_48dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_feedback_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_feedback_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_account_circle_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_account_circle_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_close_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_close_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/messenger_bubble_small_white.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check_box_outline_blank_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_check_box_outline_blank_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_child_care_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_child_care_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_sync_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_local_parking_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_local_parking_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_send_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_send_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_place_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_place_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_school_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_school_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_traffic_white_48dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_traffic_white_48dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_account_circle_black_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_account_circle_black_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_insert_photo_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_insert_photo_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_check_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_chevron_right_black_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_chevron_right_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_playlist_add_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_playlist_add_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_call_made_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_call_made_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_whatshot_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_whatshot_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_local_gas_station_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_local_gas_station_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_my_location_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_my_location_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_close_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_close_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_directions_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_directions_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/messenger_bubble_large_blue.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notifications_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_add_shopping_cart_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_add_shopping_cart_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_tooltip_black_xout.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check_circle_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_check_circle_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check_box_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_check_box_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_favorite_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_favorite_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_tooltip_blue_xout.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_more_horiz_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_more_horiz_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_edit_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_edit_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_fullscreen_exit_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_fullscreen_exit_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_mood_bad_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_mood_bad_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/messenger_button_send_round_shadow.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_directions_bus_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_directions_bus_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_playlist_add_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_playlist_add_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_insert_photo_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_insert_photo_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_email_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_map_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_map_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_shopping_cart_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_shopping_cart_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_share_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_mood_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_mood_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_directions_walk_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_directions_walk_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_add_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/messenger_bubble_small_blue.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_button_icon.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_button_icon.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_local_taxi_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_local_taxi_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_business_white_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_business_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/active_indicator.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/active_indicator.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/inactive_indicator.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/inactive_indicator.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/messenger_bubble_large_white.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_location_on_black_18dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_location_on_black_18dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_call_black_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_call_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_list_white_36dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_list_white_36dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_favorite_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_favorite_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_facebook_tooltip_black_topnub.png",
+        "source": "/Users/Apple/.android/build-cache/b42686f39945d7f4fc996978a6803d5191ed4b1f/output/res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_remove_white_24dp.png",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/drawable-xhdpi/ic_remove_white_24dp.png"
+    }
+]

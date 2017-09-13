@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.doxa360.android.dutch.AdDetail"
+    tools:showIn="@layout/activity_ad_detail">
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  android:padding="8dp">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="4dp"
+            android:layout_margin="4dp" >
+
+            <RelativeLayout android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="@dimen/activity_vertical_margin"
+                            android:paddingLeft="@dimen/activity_horizontal_margin"
+                            android:paddingRight="@dimen/activity_horizontal_margin"
+                            android:paddingTop="@dimen/activity_vertical_margin"
+            >
+
+                <TextView android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/title"
+                          android:layout_below="@+id/photo"
+                          android:layout_marginTop="16dp"
+                          android:paddingStart="16dp"
+                          android:paddingEnd="16dp"
+                          android:maxLines="2"
+                          style="?android:attr/textAppearanceLarge"
+                          tools:text="Used Dell Laptop Used Dell Laptop Used Dell Laptop"/>
+
+                <!--style="?android:attr/textAppearanceLarge"-->
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/price"
+                          android:layout_below="@+id/title"
+                          android:layout_alignParentStart="true"
+                          android:layout_marginTop="8dp"
+                          android:paddingStart="16dp"
+                          android:paddingEnd="0dp"
+                          android:textColor="@color/colorAccent"
+                          android:textStyle="bold"
+                          tools:text="N50000000"/>
+
+                <TextView android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/description"
+                          android:layout_below="@+id/price"
+                          android:layout_marginTop="16dp"
+                          android:paddingStart="16dp"
+                          android:paddingEnd="16dp"
+                          style="?android:attr/textAppearanceMedium"
+                          tools:text="Used Dell Laptop Used Dell Laptop Used Dell Laptop Dell Laptop Used Dell LaptopDell Laptop Used Dell Laptop Dell Laptop Used Dell LaptopDell Laptop Used Dell Laptop Dell Laptop Used Dell Laptop Dell Laptop Used Dell Laptop"/>
+
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/category"
+                          android:layout_below="@+id/description"
+                          android:layout_alignParentStart="true"
+                          android:layout_marginTop="8dp"
+                          android:layout_marginStart="16dp"
+                          android:textAllCaps="true"
+                          android:padding="4dp"
+                          android:textColor="@color/secondary_text"
+                          tools:text="Mobile Phones"
+                />
+
+                <TextView android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/address"
+                          android:layout_below="@+id/category"
+                          android:layout_alignParentStart="true"
+                          android:layout_marginTop="8dp"
+                          android:layout_marginStart="16dp"
+                          android:padding="4dp"
+                          tools:text="Address"/>
+
+
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/owner"
+                          android:layout_below="@+id/address"
+                          android:layout_alignParentStart="true"
+                          android:layout_marginTop="8dp"
+                          android:layout_marginStart="16dp"
+                          style="?android:attr/textAppearanceMedium"
+                          android:padding="4dp"
+                          android:textColor="@color/holla_white"
+                          tools:text="Seller: Bassey"
+                          android:background="@drawable/chips"/>
+
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:id="@+id/views"
+                          android:layout_below="@+id/owner"
+                          android:layout_alignParentStart="true"
+                          android:layout_marginTop="8dp"
+                          android:layout_marginStart="16dp"
+                          style="?android:attr/textAppearanceSmall"
+                          android:padding="4dp"
+                          android:textColor="@color/secondary_text"
+                          tools:text="Views: 1"
+                          android:visibility="invisible"/>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

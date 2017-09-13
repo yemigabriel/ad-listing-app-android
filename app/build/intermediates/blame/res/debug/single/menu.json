@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/menu/menu_post_ad.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/menu/menu_post_ad.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/menu/activity_home_drawer.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/menu/menu_ad_detail.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/menu/menu_ad_detail.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/Apple/AndroidStudioProjects/Dutch/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/Apple/AndroidStudioProjects/Dutch/app/src/main/res/menu/home.xml"
+    }
+]
